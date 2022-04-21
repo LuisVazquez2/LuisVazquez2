@@ -60,19 +60,14 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LuisVazquez2&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVazquez2&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api?username=LuisVazquez2&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisvazquez2&" alt="luisvazquez2" /></p>
 </div>  
+  
 
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVazquez2&hide_border=true&layout=compact" align="right" /></div>
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
