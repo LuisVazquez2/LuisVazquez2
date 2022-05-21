@@ -21,7 +21,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-- *🌱 I’m currently learning **TensorFlow and Data Analyst on Python***  
+- *🌱 I’m currently learning **Data Analytics***  
   
 
 - *📫 How to reach me **luisito986.22@gmail.com***  
