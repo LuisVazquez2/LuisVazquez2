@@ -49,11 +49,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 </div>  
 
 <br/>  
@@ -61,11 +58,6 @@
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=LuisVazquez2&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisvazquez2&" alt="luisvazquez2" /></p>
-</div>  
-  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVazquez2&hide_border=true&layout=compact" align="right" /></div>
-<br />
-
+<div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisvazquez2&" alt="luisvazquez2" /></p></div>  
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVazquez2&hide_border=true&layout=compact"/></div>
+<br/>
