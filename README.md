@@ -8,9 +8,6 @@
 <a href="https://linkedin.com/in/luisitovazquez" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/luisito.vazquez.7792" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
@@ -24,7 +21,6 @@
 - *🌱 I’m currently learning **Data Analytics***  
   
 
-- *📫 How to reach me **luisito986.22@gmail.com***  
   
 
 <img src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966" align="left" style="width: 100%" />  
