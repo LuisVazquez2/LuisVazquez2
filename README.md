@@ -18,8 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuisVazquez2&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVazquez2&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+#### ✍️ Devs Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LuisVazquez2&limit=5&theme=radical&combine_all_yearly_contributions=true)
